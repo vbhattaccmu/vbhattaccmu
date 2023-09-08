@@ -40,5 +40,3 @@
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Snake animation](https://github.com/vbhattaccmu/vbhattaccmu/blob/output/github-contribution-grid-snake.svg)
-
