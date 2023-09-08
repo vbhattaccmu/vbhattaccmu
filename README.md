@@ -14,7 +14,7 @@
   
 - 🌱 Currently learning: Kafka, ZK stuff, Applied cryptography (MAC validation for [example](https://github.com/vbhattaccmu/rlpx_handshake)).
   
-- ✍️ My work from academia: I am an academic researcher turned Software Engineer. Having published 12 pubs in the energy and control systems space ([Google Scholar](https://scholar.google.co.in/citations?user=91OsIQYAAAAJ&hl=en)), I currently focus on building stuff. Although, I have promised my old colleagues that I will participate in research again in future. Looking forward to it! Stay tuned!
+- ✍️ My work from academia: I am an academic researcher turned Software Engineer. Having published 12 pubs in the energy and control systems space ([Google Scholar](https://scholar.google.co.in/citations?user=91OsIQYAAAAJ&hl=en)), I am currently focussing on software engineering. Although, I have promised my old colleagues that I will participate in research again in future. Looking forward to it! Stay tuned!
   
 ---
 
