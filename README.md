@@ -24,6 +24,10 @@
 
 <a href="https://github.com/vbhattaccmu/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbhattaccmu&layout=compact&theme=vision-friendly-dark" width="400"></a>
 
+<a href="https://github.com/vbhattaccmu/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=vbhattaccmu&show_icons=true&theme=transparent" alt="GitHub stats" width="400">
+</a>
+
 ---
 
 ### :thought_balloon:	&nbsp; Connect with Me:
