@@ -1,25 +1,39 @@
-### ✨ Welcome to my space✨
+<p align="center"><img src="https://komarev.com/ghpvc/?username=vbhattaccmu&style=flat-square&color=blue" alt=""></p>
 
- Hi there 👋, this is Vikram.
-- 🔭 I’m currently working on: Building infrastructure for web 3.0 (networking layer for example)...
+<h1 align="center">
+✨Hi there 👋, this is Vikram✨
+</h1>
+
+## :left_speech_bubble:	&nbsp;More About Me:
+
+- 💬 Ask me about: Energy, Blockchains, DeFI, Embedded Control, Networks, Robotics, Math, Geometry, C++, Rust.
+
+- 🔭 Currently working on: Building infrastructure for web 3.0 (networking layer for [example](https://github.com/vbhattaccmu/lynk)).
   
-- 💬 Ask me about: Energy, Blockchains, DeFI, Embedded Control, Networks, Robotics, Math, Geometry, C++, Rust...
+- 🌱 Currently learning: Kafka, ZK stuff, Applied cryptography (MAC validation for [example](https://github.com/vbhattaccmu/rlpx_handshake)).
   
-- 🌱 I’m currently learning: Kafka, ZK stuff, Applied cryptography (MAC validation for example)...
+- ✍️ My work from academia: I am a researcher turned Software Developer. Having published 12 pubs in the energy and control systems space: [Google Scholar](https://scholar.google.co.in/citations?user=91OsIQYAAAAJ&hl=en), I currently focus on building stuff in real life. I have promised my old colleagues that I will participate in research again. Hopefully it will be of use to you as well! Stay tuned!
   
-- ✍️ Read my work from academia: I am a researcher turned Software Developer. Having published 12 pubs in the energy and control systems space: [Google Scholar](https://scholar.google.co.in/citations?user=91OsIQYAAAAJ&hl=en), I currently focus on building stuff in real life. I have promised my old colleagues that I will participate in research again. Hopefully it will be of use to you as well! Stay tuned!
-  
-- 📫 How to reach me: vbhattac@alumni.cmu.edu
-
-## 🔥 &nbsp; My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vbhattaccmu&theme=dark)](https://git.io/streak-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbhattaccmu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 Reach me at: vbhattac@alumni.cmu.edu
 
 ---
 
-## 😉 A Programming Joke :
+## 🔥 &nbsp; My Github Activity:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vbhattaccmu&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbhattaccmu&layout=compact&theme=vision-friendly-dark)](https://github.com/vbhattaccmu/github-readme-stats)
+
+---
+
+## :thought_balloon:	&nbsp; Connect with Me:
+<p>
+<a href="https://www.linkedin.com/in/vikram-bhattacharjee-3a04755b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="41" width="174" /></a>
+<a href="https://twitter.com/vbhattac453"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" height="41" width="174"/></a>
+<a href="https://www.buymeacoffee.com/vbhattaccmu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"/></a>
+</p>
+---
+
+## 😉 A Programming Joke to light up your mood:
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
