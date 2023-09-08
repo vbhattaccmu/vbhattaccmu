@@ -39,7 +39,7 @@
 
 ---
 
-## 😉 A Programming Joke to light up your mood:
+### 😉 A Programming Joke to light up your mood:
 <!-- Markdown -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
