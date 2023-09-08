@@ -6,7 +6,7 @@
 
 ## :left_speech_bubble:	&nbsp;More About Me:
 
-- 💬 Ask me about: Energy, Blockchains, DeFI, Embedded Control, Networks, Robotics, Math, Geometry, C++, Rust.
+- 💬 Ask me about: Energy, Blockchains, DeFI, Embedded Systems, Computer Networks, Robotics, Math, Geometry, C++, Rust.
 
 - 🔭 Currently working on: Building infrastructure for web 3.0 (networking layer for [example](https://github.com/vbhattaccmu/lynk)).
   
