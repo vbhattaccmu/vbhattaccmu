@@ -19,15 +19,14 @@
 ---
 
 ### 🔥 &nbsp; My Github Activity:
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=vbhattaccmu&theme=dark" height="300" width="400"></a>
+<a href="https://github.com/vbhattaccmu/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbhattaccmu&layout=compact&theme=vision-friendly-dark" height="300" width="400"></a>
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=vbhattaccmu&theme=dark" width="400"></a>
-
-<a href="https://github.com/vbhattaccmu/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbhattaccmu&layout=compact&theme=vision-friendly-dark" width="400"></a>
-
+<!-- 
 <a href="https://github.com/vbhattaccmu/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=vbhattaccmu&show_icons=true&theme=transparent" alt="GitHub stats" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=vbhattaccmu&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" width="400">
 </a>
-
+-->
 ---
 
 ### :thought_balloon:	&nbsp; Connect with Me:
