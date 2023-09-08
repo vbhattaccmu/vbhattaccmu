@@ -1,6 +1,6 @@
 ### ✨ Welcome ✨
  Hi there 👋, this is Vikram.
-- 🔭 I’m currently working on: Building infrastructure for web 3.0 (networking layer for example).
+- 🔭 I’m currently working on: Building infrastructure for web 3.0 (networking layer for example)...
   
 - 💬 Ask me about: Energy, Blockchains, DeFI, Embedded Control, Robotics, Math, Geometry, C++, Rust...
   
