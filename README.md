@@ -4,7 +4,7 @@
 ✨Hi there 👋, this is Vikram✨
 </h1>
 
-## :left_speech_bubble:	&nbsp;More About Me:
+### :left_speech_bubble:	&nbsp;More About Me:
 
 - 💬 Ask me about: Energy, Blockchains, DeFI, Embedded Systems, Computer Networks, Robotics, Math, Geometry, C++, Rust.
 
@@ -18,15 +18,15 @@
 
 ---
 
-## 🔥 &nbsp; My Github Activity:
+### 🔥 &nbsp; My Github Activity:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vbhattaccmu&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=vbhattaccmu&theme=dark" width="400"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vbhattaccmu&layout=compact&theme=vision-friendly-dark)](https://github.com/vbhattaccmu/github-readme-stats)
+<a href="https://github.com/vbhattaccmu/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbhattaccmu&layout=compact&theme=vision-friendly-dark" width="400"></a>
 
 ---
 
-## :thought_balloon:	&nbsp; Connect with Me:
+### :thought_balloon:	&nbsp; Connect with Me:
 <p>
 <a href="https://www.linkedin.com/in/vikram-bhattacharjee-3a04755b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="41" width="174" /></a>
 <a href="https://twitter.com/vbhattac453"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" height="41" width="174"/></a>
