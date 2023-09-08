@@ -6,7 +6,9 @@
 
 ### :left_speech_bubble:	&nbsp;More About Me:
 
-- 💬 Ask me about: Energy, Blockchains, DeFI, Embedded Systems, Computer Networks, Robotics, Math, Geometry, C++, Rust.
+- 💬 Topics I care about: Energy, Blockchains, DeFI, Embedded Systems, Robotics, Computational Geometry, Computer Networks.
+
+- :computer: Programming Languages/Frameworks I know:  C++, Rust, WebAssembly, AWS, PostgreSQL, MongoDB, Kafka, Docker.
 
 - 🔭 Currently working on: Building infrastructure for web 3.0 (networking layer for [example](https://github.com/vbhattaccmu/lynk)).
   
