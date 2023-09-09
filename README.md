@@ -6,13 +6,15 @@
 
 ### :left_speech_bubble:	&nbsp;More About Me:
 
-- 💬 Topics I care about: Energy, Blockchains, DeFI, Embedded Systems, Robotics, Computational Geometry, Computer Networks.
+- 💬 Engineering Topics I care about: Math, Energy, Blockchains, Embedded Systems, Computer Networks, Geometry, Robotics.
 
-- :computer: Programming Languages/Frameworks I know:  C++, Rust, WebAssembly, AWS, PostgreSQL, MongoDB, Kafka, Docker.
+- :computer: Programming Languages/Frameworks I know: C++, Rust, Linux, WebAssembly, PostgreSQL, MongoDB, Kafka, Docker, AWS.
 
-- 🔭 Currently working on: Building infrastructure for web 3.0 (networking layer for [example](https://github.com/vbhattaccmu/lynk)).
+- 🔭 Passionate about: Building networking infrastructure for web 3.0, market connectivity and quantitative trading.
   
-- 🌱 Currently learning: Kafka, ZK stuff, Applied cryptography (MAC validation for [example](https://github.com/vbhattaccmu/rlpx_handshake)).
+- :right_anger_bubble: Open Sourced Projects: Please check some of my projects here ([backtesting](https://github.com/vbhattaccmu/CryptoBackTester), [p2p](https://github.com/vbhattaccmu/lynk), [handshake mechanisms](https://github.com/vbhattaccmu/rlpx_handshake)).
+  
+- 🌱 Currently learning: Java (Spring Boot), Kafka (CCDAK Certification), FPGA.
   
 - ✍️ My work from academia: I am an academic researcher turned Software Engineer. Having published 12 pubs in the energy and control systems space ([Google Scholar](https://scholar.google.co.in/citations?user=91OsIQYAAAAJ&hl=en)), I am currently focussing on software engineering. Although, I have promised my old colleagues that I will participate in research again in future. Looking forward to it! Stay tuned!
   
