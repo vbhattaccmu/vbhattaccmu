@@ -9,8 +9,6 @@
 - 💬 Engineering Topics I care about: Math, Energy, Blockchains, Embedded Systems, Computer Networks, Geometry, Robotics.
 
 - :computer: Programming Languages/Frameworks I know: C++, Rust, Linux, WebAssembly, PostgreSQL, MongoDB, Kafka, Docker, AWS.
-
-- 🔭 Passionate about: Building infrastructure for web 3.0.
   
 - :right_anger_bubble: Open Sourced Projects: Please check some of my projects here ([backtesting](https://github.com/vbhattaccmu/CryptoBackTester), [p2p](https://github.com/vbhattaccmu/lynk), [handshake mechanisms](https://github.com/vbhattaccmu/rlpx_handshake)).
     
