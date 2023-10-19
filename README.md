@@ -8,7 +8,7 @@
 
 - :computer: Programming Languages/Frameworks I know: C++, Rust, Linux, WebAssembly, PostgreSQL, MongoDB, Kafka, Docker, AWS.
   
-- Currently working as a software dev at ZkLend focussing on building a money market protocol on Starknet. Have been a part of early teams of two major successful startups: Hyliion and ParallelChain Lab.
+- Currently working as a software dev at ZkLend working on building a money market protocol on Starknet. Have been a part of early teams of two major successful startups: Hyliion and ParallelChain Lab.
   
 - :right_anger_bubble: Open Sourced Projects: Please check some of my projects here ([backtesting](https://github.com/vbhattaccmu/CryptoBackTester), [p2p](https://github.com/vbhattaccmu/liarslie), [handshake mechanisms](https://github.com/vbhattaccmu/rlpx_handshake)).
     
