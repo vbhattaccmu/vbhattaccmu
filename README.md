@@ -7,7 +7,7 @@
 ### :left_speech_bubble:	&nbsp;More About Me:
 - :nerd_face:	An academic researcher turned Software Engineer currently building scalable distributed systems in web 3.0.
 
-- :computer: I know: Rust, C++, C, Golang, Linux, WebAssembly, PostgreSQL, MongoDB, Kafka, Docker, AWS services.
+- :computer: I know: Rust, C++, C, Golang, Linux, WebAssembly, p2p, PostgreSQL, MongoDB, Kafka, Docker, AWS services.
   
 - :right_anger_bubble: Open Sourced Projects: I spend my free time working on  projects on storage and networking. Please check some of my projects here ([handshake mechanisms](https://github.com/vbhattaccmu/rlpx-handshake), [RESTful services](https://github.com/vbhattaccmu/digital-asset-bank), [message queues](https://github.com/vbhattaccmu/DAS), [p2p](https://github.com/vbhattaccmu/naive-gossip)).
 
