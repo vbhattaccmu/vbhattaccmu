@@ -9,9 +9,9 @@
 
 - :computer: I know: Rust, C++, C, Golang, Linux, WebAssembly, p2p, PostgreSQL, MongoDB, Kafka, Docker, AWS services.
   
-- :right_anger_bubble: Open Sourced Projects: I spend my free time working on  projects on storage and networking. Please check some of my projects here ([handshake mechanisms](https://github.com/vbhattaccmu/rlpx-handshake), [RESTful services](https://github.com/vbhattaccmu/digital-asset-bank), [message queues](https://github.com/vbhattaccmu/DAS), [p2p](https://github.com/vbhattaccmu/naive-gossip)).
+- :right_anger_bubble: Open Sourced Projects: Please check some of my projects here ([handshake mechanisms](https://github.com/vbhattaccmu/rlpx-handshake), [RESTful services](https://github.com/vbhattaccmu/digital-asset-bank), [message queues](https://github.com/vbhattaccmu/DAS), [p2p](https://github.com/vbhattaccmu/naive-gossip)).
 
-- ✍️ My work from academia: Having published 12 pubs in the energy and distributed control systems space ([Google Scholar](https://scholar.google.co.in/citations?user=91OsIQYAAAAJ&hl=en)), I am currently focussing on building scalable backend systems. Although, I have promised my old colleagues that I will participate in research again in future. Looking forward to it! Stay tuned!
+- ✍️ My work from academia: Having published 12 pubs in the energy and distributed control systems space ([Google Scholar](https://scholar.google.co.in/citations?user=91OsIQYAAAAJ&hl=en)), I am currently focussing on building scalable distributed systems. Although, I have promised my old colleagues that I will participate in research again in future. Looking forward to it! Stay tuned!
   
 - Previosuly I have been a part of two successsful startups: 1. Hyliion and 2. ParallelChain Lab. I spent a brief amount of time at Scientific Games working on their ArgOS stack before moving to web 3.0. 
 
