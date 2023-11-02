@@ -5,7 +5,7 @@
 </h1>
 
 ### :left_speech_bubble:	&nbsp;More About Me:
-- :nerd_face:	An academic researcher turned Software Engineer currently building scalable distributed systems in web 3.0.
+- :nerd_face:	An academic researcher turned Software Engineer currently contributing to building web 3.0.
 
 - :computer: I know: Rust, C++, C, Golang, Linux, WebAssembly, p2p, PostgreSQL, MongoDB, Kafka, Docker, AWS services.
   
