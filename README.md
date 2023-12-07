@@ -17,7 +17,7 @@
 
 ---
 
-### 🔥 &nbsp; My Github Activity:
+### My Github Activity:
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=vbhattaccmu&theme=dark" height="300" width="400"></a>
 <a href="https://github.com/vbhattaccmu/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbhattaccmu&layout=compact&theme=vision-friendly-dark" height="300" width="400"></a>
 
@@ -28,7 +28,7 @@
 -->
 ---
 
-### :thought_balloon:	&nbsp; Connect with Me:
+### Connect with Me:
 
 <p>
 <a href="https://www.linkedin.com/in/vikram-bhattacharjee-3a04755b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="35" width="140" /></a>
