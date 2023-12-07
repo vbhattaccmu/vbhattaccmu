@@ -4,7 +4,7 @@
 ✨Hi there 👋, this is Vikram✨
 </h1>
 
-### :left_speech_bubble:	&nbsp;More About Me:
+### More About Me:
 - :nerd_face:	An academic researcher turned Software Engineer currently contributing to building web 3.0.
 
 - :computer: I know: Rust, C++, Linux, WebAssembly, p2p, PostgreSQL, MongoDB, Kafka, Docker, AWS services.
