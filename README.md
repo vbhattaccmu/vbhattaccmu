@@ -13,7 +13,7 @@
 
 - ✍️ My work from academia: Having published 12 pubs in the energy and distributed control systems space ([Google Scholar](https://scholar.google.co.in/citations?user=91OsIQYAAAAJ&hl=en)), I am currently working on building storage and networking infrastructure for large scale distributed systems. Although, I have promised my old colleagues that I will participate in research again in future. Looking forward to it! Stay tuned!
   
-- Previosuly I have been a part of two successsful startups: 1. Hyliion and 2. ParallelChain Lab. At ParallelChain Lab, I worked on building its wasm-runtime, networking and its indexer. 
+- Previosuly I have been a part of two successsful startups: 1. Hyliion and 2. ParallelChain Lab. At ParallelChain Lab, I contributed to building the WebAssembly stack for its [runtime](https://github.com/parallelchain-io/pchain-runtime/tree/main/src/wasmer), [networking layer](https://github.com/parallelchain-io/pchain-network) and its [indexer](https://explorer.parallelchain.io/explorer?network=Mainnet). 
 
 ---
 
