@@ -14,7 +14,7 @@
 - :construction_worker: Projects I have been part of in the past: 
   - [Hyliion](https://www.hyliion.com/) (June 2018 - Oct 2019) - Contributions: Hybrid-Ex Project. Tech Stack: C++, Linux.
   - [Read Ink](http://www.read-ink.com/index.html) (Feb 2020 - Dec 2021) - Contributions: Read Ink's OCR Engine. Tech Stack: C++, Python, AWS. 
-  - [Scientific Games](https://www.lnw.com/) (Dec 2021 - Apr 2022) - Contributions: ArgOS platform. Tech Stack: C++, Python, AWS. 
+  - [Scientific Games](https://www.lnw.com/) (Dec 2021 - Apr 2022) - Contributions: ArgOS platform. Tech Stack: C++, AWS. 
   - [ParallelChain Lab](https://parallelchain.io/) (April 2022 - Aug 2023) - Contributions: [ParallelChain VM](https://github.com/parallelchain-io/pchain-runtime/tree/main/src/wasmer) and [its networking layer](https://github.com/parallelchain-io/pchain-network). Tech Stack: Rust, AWS.
   - [zkLend](https://zklend.com/) (Sept 2023 - Dec 2023) - Contributions: zkLend's Artemis Platform on Starknet, Graph Protocol. Tech Stack: Rust, AWS.
 
