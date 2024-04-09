@@ -20,7 +20,6 @@
   - [Read Ink](http://www.read-ink.com/index.html) (Feb 2020 - Dec 2021) - Contributions: Read Ink's OCR Engine. Tech Stack: C++, Python, AWS. 
   - [Scientific Games](https://www.lnw.com/) (Dec 2021 - Apr 2022) - Contributions: ArgOS platform. Tech Stack: C++, AWS. 
   - [ParallelChain Lab](https://parallelchain.io/) (April 2022 - Aug 2023) - Contributions: [ParallelChain VM](https://github.com/parallelchain-io/pchain-runtime/tree/main/src/wasmer) and [its networking layer](https://github.com/parallelchain-io/pchain-network). Tech Stack: Rust, AWS.
-  - [zkLend](https://zklend.com/) (Sept 2023 - Dec 2023) - Contributions: zkLend's Artemis Platform on Starknet, Graph Protocol. Tech Stack: Rust, AWS.
 
 - ✍️ My work from academia: Having published 12 pubs in the energy and distributed control systems space ([Google Scholar](https://scholar.google.co.in/citations?user=91OsIQYAAAAJ&hl=en)), I am currently working on building storage and networking infrastructure for distributed systems in web 3.0. Although, I have promised my old colleagues that I will participate in research again in future. Looking forward to it! Stay tuned!
 ---
