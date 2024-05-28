@@ -10,7 +10,7 @@
 - :computer: I know: Rust, C++, Linux, WebAssembly, p2p, PostgreSQL, MongoDB, Kafka, Docker, AWS services.
 
 - :school: My educational background: 
-  - [Jadavpur University](http://www.jaduniv.edu.in/) (Aug 2011 - May 2015) - Degree: Bachelor of Chemical Engineering.
+  - [Jadavpur University](http://www.jaduniv.edu.in/) (Aug 2011 - May 2015) - Degree: Bachelor of Engineering.
   - [Carnegie Mellon University](https://www.cmu.edu/) (Aug 2016 - May 2018) - Degree: Master of Eletrical and Computer Engineering.
   
 - :right_anger_bubble: Open Sourced Projects: Please check some of my projects here ([handshake mechanisms](https://github.com/vbhattaccmu/rlpx-handshake), [RESTful services](https://github.com/vbhattaccmu/digital-asset-bank), [message queues](https://github.com/vbhattaccmu/DAS), [p2p](https://github.com/vbhattaccmu/naive-gossip)).
