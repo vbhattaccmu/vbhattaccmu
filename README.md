@@ -39,7 +39,6 @@
 
 <p>
 <a href="https://www.linkedin.com/in/vikram-bhattacharjee-3a04755b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="35" width="140" /></a>
-<a href="https://twitter.com/vbhattac453"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" height="35" width="140"/></a>
 <a href="https://www.buymeacoffee.com/vbhattaccmu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="35" width="174"/></a>
 </p>
 
