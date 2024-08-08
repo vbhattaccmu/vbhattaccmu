@@ -18,7 +18,6 @@
 - :construction_worker: Projects I have been part of in the past: 
   - [Hyliion](https://www.hyliion.com/) - Contributions: Hybrid-Ex Project. Tech Stack: C++, Linux.
   - [Read Ink](http://www.read-ink.com/index.html) - Contributions: Read Ink's OCR Engine. Tech Stack: C++, Python, AWS. 
-  - [Scientific Games](https://www.lnw.com/) - Contributions: ArgOS platform. Tech Stack: C++, Linux. 
   - [ParallelChain Lab](https://parallelchain.io/) - Contributions: [ParallelChain VM](https://github.com/parallelchain-io/pchain-runtime/tree/main/src/wasmer) and [its networking layer](https://github.com/parallelchain-io/pchain-network). Tech Stack: Rust, AWS.
 
 - ✍️ My work from academia: Having published 12 pubs in the energy and distributed control systems space ([Google Scholar](https://scholar.google.co.in/citations?user=91OsIQYAAAAJ&hl=en)), I am currently working on building storage and networking infrastructure for distributed systems in web 3.0. 
