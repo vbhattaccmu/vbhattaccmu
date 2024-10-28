@@ -7,7 +7,7 @@
 ### More About Me:
 - :nerd_face:	An academic researcher turned Software Engineer currently contributing to building web 3.0.
 
-- :computer: I know: Rust, C++, Linux, WebAssembly, p2p, PostgreSQL, MongoDB, Kafka, Docker, AWS services.
+- :computer: I know: Rust, C++, Go, Linux, WebAssembly, p2p, PostgreSQL, MongoDB, Kafka, Docker, AWS services.
 
 - :school: My educational background: 
   - [Jadavpur University](http://www.jaduniv.edu.in/) (Aug 2011 - May 2015) - Degree: Bachelor of Engineering.
