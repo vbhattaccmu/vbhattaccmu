@@ -18,16 +18,6 @@
 - ✍️ My work from academia: Having published 12 pubs in the energy and distributed control systems space ([Google Scholar](https://scholar.google.co.in/citations?user=91OsIQYAAAAJ&hl=en)), I am currently working on building storage and networking infrastructure for distributed systems in web 3.0. 
 ---
 
-### My Github Activity:
-<a href="https://github.com/vbhattaccmu/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vbhattaccmu&layout=compact&theme=vision-friendly-dark" height="300" width="400"></a>
-
-<!-- 
-<a href="https://github.com/vbhattaccmu/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=vbhattaccmu&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" width="400">
-</a>
--->
----
-
 ### Connect with Me:
 
 <p>
