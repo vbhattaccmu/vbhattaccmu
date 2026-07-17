@@ -19,36 +19,54 @@ My engineering experience spans **DevP2P, libp2p, peer lifecycle management,
 blockchain synchronization, data availability, consensus infrastructure,
 packet-level debugging, and Linux networking**.
 
-## Selected Public Engineering Contributions
+## Selected Merged Contributions
 
-- [DevP2P peer failure handling and jailing in Bor](https://github.com/0xPolygon/bor/pull/2283)
-- [Nightly Polygon PoS load-testing infrastructure](https://github.com/0xPolygon/bor/pull/2289)
-- [Polynomial multiproof integration for Avail Light Client](https://github.com/availproject/avail-light/pull/908)
-- [Kademlia and RocksDB storage improvements](https://github.com/availproject/avail-light/pull/867)
+- [DevP2P peer failure handling and peer jailing in Polygon Bor](https://github.com/0xPolygon/bor/pull/2283)
+- [Polynomial multiproof integration for Avail application clients](https://github.com/availproject/avail-light/pull/908)
 
 ## Selected Open-Source Projects
 
-- [RLPx Handshake](https://github.com/vbhattaccmu/rlpx-handshake)  
-  A focused implementation of the Ethereum RLPx cryptographic handshake.
+### [Post-Quantum libp2p](https://github.com/vbhattaccmu/post-quantum-libp2p)
 
-- [P2P Verify](https://github.com/vbhattaccmu/p2p-verify)  
-  Signed message exchange and peer verification over libp2p.
+An experimental Rust libp2p fork for exploring the integration of
+post-quantum cryptographic primitives into peer authentication and secure
+transport workflows.
 
-- [Avoid Deadlocks](https://github.com/vbhattaccmu/avoid-deadlocks)  
-  Distributed coordination experiments for collision and deadlock avoidance.
+> Experimental research project. Not intended for production use.
+
+### [RLPx Handshake](https://github.com/vbhattaccmu/rlpx-handshake)
+
+A focused Rust implementation of the Ethereum RLPx cryptographic handshake,
+including authentication, secret derivation, and encrypted session setup.
+
+### [P2P Verify](https://github.com/vbhattaccmu/p2p-verify)
+
+A libp2p-based network client for peer communication, signed-message exchange,
+and cryptographic message verification using Swarm, Gossipsub, and Identify.
+
+### [Avoid Deadlocks](https://github.com/vbhattaccmu/avoid-deadlocks)
+
+Distributed coordination experiments for detecting and avoiding resource
+collisions and deadlocks between autonomous participants.
 
 ## Technical Focus
 
-- **P2P networking:** DevP2P, libp2p, Kademlia, and Gossipsub
-- **Blockchain infrastructure:** clients, synchronization, peer management, and data availability
+- **P2P networking:** DevP2P, libp2p, Kademlia, Gossipsub, RLPx
+- **Blockchain infrastructure:** clients, synchronization, peer management,
+  consensus, and data availability
 - **Systems engineering:** Go, Rust, C++, Linux, TCP/IP, and packet-level debugging
 - **Infrastructure:** Docker, Kafka, PostgreSQL, MongoDB, and AWS
 
 ## Current Research Interests
 
-I am exploring networking for distributed AI training, including
-**RDMA/RoCE, GPUDirect RDMA, NCCL collectives, GPU cluster fabrics, and
-Linux communication-path optimization**.
+I am exploring networking for distributed AI training, including:
+
+- RDMA and RoCE
+- GPUDirect RDMA
+- NCCL collectives
+- GPU cluster fabrics
+- Linux communication-path optimization
+- Post-quantum authentication for peer-to-peer protocols
 
 ## Research Background
 
