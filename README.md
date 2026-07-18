@@ -15,7 +15,7 @@
 I work on performance-sensitive peer-to-peer networking, blockchain clients,
 and distributed-systems infrastructure using **Go, Rust, and C++**.
 
-My engineering experience spans **DevP2P, libp2p, peer lifecycle management,
+My engineering experience spans **devP2P, libp2p, peer lifecycle management,
 blockchain synchronization, data availability, consensus infrastructure,
 packet-level debugging, and Linux networking**.
 
