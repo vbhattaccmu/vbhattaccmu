@@ -57,17 +57,6 @@ collisions and deadlocks between autonomous participants.
 - **Systems engineering:** Go, Rust, C++, Linux, TCP/IP, and packet-level debugging
 - **Infrastructure:** Docker, Kafka, PostgreSQL, MongoDB, and AWS
 
-## Current Research Interests
-
-I am exploring networking for distributed AI training, including:
-
-- RDMA and RoCE
-- GPUDirect RDMA
-- NCCL collectives
-- GPU cluster fabrics
-- Linux communication-path optimization
-- Post-quantum authentication for peer-to-peer protocols
-
 ## Research Background
 
 I hold an **M.S. in Electrical and Computer Engineering from Carnegie Mellon
