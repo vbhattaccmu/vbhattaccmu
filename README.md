@@ -21,7 +21,7 @@ packet-level debugging, and Linux networking**.
 
 ## Selected Merged Contributions
 
-- [DevP2P peer failure handling and peer jailing in Polygon Bor](https://github.com/0xPolygon/bor/pull/2283)
+- [devP2P peer failure handling and peer jailing in Polygon Bor](https://github.com/0xPolygon/bor/pull/2283)
 - [Polynomial multiproof integration for Avail application clients](https://github.com/availproject/avail-light/pull/908)
 
 ## Selected Open-Source Projects
