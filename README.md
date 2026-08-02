@@ -57,9 +57,10 @@ Smart contracts for the Big Water Protocol
 
 - **Blockchain infrastructure:** clients, synchronization, peer management,
   consensus, and data availability
-- **P2P networking:** DevP2P, libp2p, Kademlia, Gossipsub, RLPx
 - **Systems engineering:** Go, Rust, C++, Linux, TCP/IP, and packet-level debugging
 - **Web 2.0 Infrastructure:** Docker, Kafka, PostgreSQL, MongoDB, AWS and GCP
+- **P2P networking:** DevP2P, libp2p, Kademlia, Gossipsub, RLPx
+
 
 ## Research Background
 
