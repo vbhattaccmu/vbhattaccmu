@@ -13,7 +13,7 @@
 </p>
 
 I build performance-sensitive web 3.0 and distributed-systems infrastructure using **Rust, Go and C++**, 
-with experience across blockchain execution and consensus clients. Used to work in AI and embedded systems in **C++ and Python**.
+with experience across blockchain execution and consensus clients. Used to work in AI and embedded systems in **C++ and Python** in the past.
 
 ## Recent Selected Merged Contributions
 
