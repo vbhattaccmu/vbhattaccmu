@@ -55,11 +55,11 @@ Smart contracts for the Big Water Protocol
 
 ## Technical Focus
 
-- **P2P networking:** DevP2P, libp2p, Kademlia, Gossipsub, RLPx
 - **Blockchain infrastructure:** clients, synchronization, peer management,
   consensus, and data availability
+- **P2P networking:** DevP2P, libp2p, Kademlia, Gossipsub, RLPx
 - **Systems engineering:** Go, Rust, C++, Linux, TCP/IP, and packet-level debugging
-- **Infrastructure:** Docker, Kafka, PostgreSQL, MongoDB, and AWS
+- **Web 2.0 Infrastructure:** Docker, Kafka, PostgreSQL, MongoDB, AWS and GCP
 
 ## Research Background
 
