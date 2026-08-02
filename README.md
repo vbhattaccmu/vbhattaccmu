@@ -45,9 +45,9 @@ and cryptographic message verification using Swarm, Gossipsub, and Identify.
 Distributed coordination experiments for detecting and avoiding resource
 collisions and deadlocks between autonomous participants.
 
-### [Rome Protocol](https://github.com/rome-protocol/op-geth)
+### [Rome L2s](https://github.com/rome-protocol/op-geth)
 
-Contributed to building Rome L2 infrastructure and updated EVM to match Solana state.
+Contributed to building Rome L2 infrastructure and updated Rome's op-geth EVM fork to match Solana state.
 
 ### [Big Water Protocol](https://github.com/BigWater-Protocol/BigWater-Smart-Contracts)
 
