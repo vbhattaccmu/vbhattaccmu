@@ -9,17 +9,13 @@
 
 <p align="center">
   <strong>Senior Engineer, Networking at Polygon Labs</strong><br />
-  P2P Networking · Distributed Systems · Blockchain Infrastructure
+   Distributed Systems · Blockchain Infrastructure
 </p>
 
-I work on performance-sensitive peer-to-peer networking, blockchain clients,
-and distributed-systems infrastructure using **Go, Rust, and C++**.
+I build performance-sensitive web 3.0 and distributed-systems infrastructure using **Rust, Go and C++**, 
+with experience across blockchain execution and consensus clients.
 
-My engineering experience spans **devP2P, libp2p, peer lifecycle management,
-blockchain synchronization, data availability, consensus infrastructure,
-packet-level debugging, and Linux networking**.
-
-## Selected Merged Contributions
+## Recent Selected Merged Contributions
 
 - [devP2P peer failure handling and peer jailing in Polygon Bor](https://github.com/0xPolygon/bor/pull/2283)
 - [Polynomial multiproof integration for Avail application clients](https://github.com/availproject/avail-light/pull/908)
@@ -48,6 +44,14 @@ and cryptographic message verification using Swarm, Gossipsub, and Identify.
 
 Distributed coordination experiments for detecting and avoiding resource
 collisions and deadlocks between autonomous participants.
+
+### [Rome Protocol](https://github.com/rome-protocol/op-geth)
+
+Contributed to building Rome L2 infrastructure and updated EVM to match Solana state.
+
+### [Big Water Protocol](https://github.com/BigWater-Protocol/BigWater-Smart-Contracts)
+
+Smart contracts for the Big Water Protocol
 
 ## Technical Focus
 
