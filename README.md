@@ -18,7 +18,7 @@ with experience across blockchain execution and consensus clients. Used to work 
 ## Recent Selected Merged Contributions
 
 - [devP2P peer jailing in Bor](https://github.com/0xPolygon/bor/pull/2283)
-- [Polynomial multiproof integration for Avail application clients](https://github.com/availproject/avail-light/pull/908)
+- [Polynomial multiproof integration for Avail Light Clients](https://github.com/availproject/avail-light/pull/778)
 
 ## Selected Open-Source Projects
 
