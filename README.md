@@ -8,7 +8,7 @@
 <h1 align="center">Vikram Bhattacharjee</h1>
 
 <p align="center">
-  <strong>Senior Engineer</strong><br />
+  <strong>Senior Protocol Engineer</strong><br />
    Distributed Systems · Blockchain Infrastructure
 </p>
 
