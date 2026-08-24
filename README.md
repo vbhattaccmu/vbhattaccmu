@@ -55,8 +55,7 @@ Smart contracts for the Big Water Protocol
 
 ## Technical Focus
 
-- **Blockchain infrastructure:** clients, synchronization, peer management,
-  consensus, and data availability
+- **Blockchain infrastructure:** clients, state synchronization, consensus, execution and data availability
 - **Systems engineering:** Go, Rust, C++, Linux, TCP/IP, and packet-level debugging
 - **Web 2.0 Infrastructure:** Docker, Kafka, PostgreSQL, MongoDB, AWS and GCP
 - **P2P networking:** DevP2P, libp2p, Kademlia, Gossipsub, RLPx
