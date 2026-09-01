@@ -49,10 +49,6 @@ collisions and deadlocks between autonomous participants.
 
 Contributed to building Rome L2 infrastructure and updated Rome's op-geth EVM fork to match Solana state.
 
-### [Big Water Protocol](https://github.com/BigWater-Protocol/BigWater-Smart-Contracts)
-
-Smart contracts for the Big Water Protocol
-
 ## Technical Focus
 
 - **Blockchain infrastructure:** clients, state synchronization, consensus, execution and data availability
