@@ -15,11 +15,6 @@
 I build performance-sensitive web 3.0 and distributed-systems infrastructure using **Rust, Go and C++**, 
 with experience across blockchain execution and consensus clients. Used to work in AI and embedded systems in **C++ and Python** in the past.
 
-## Recent Selected Merged Contributions
-
-- [devP2P peer jailing in Bor](https://github.com/0xPolygon/bor/pull/2283)
-- [Polynomial multiproof integration on Avail Light Clients](https://github.com/availproject/avail-light/pull/778)
-
 ## Selected Open-Source Projects
 
 ### [Post-Quantum libp2p](https://github.com/vbhattaccmu/post-quantum-libp2p)
