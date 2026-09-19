@@ -61,17 +61,10 @@ I have published 12 papers in power systems, distributed control, and energy
 systems.
 
 - [Google Scholar](https://scholar.google.com/citations?user=91OsIQYAAAAJ)
-- [LinkedIn](https://www.linkedin.com/in/vikram-bhattacharjee/)
 
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vikram-bhattacharjee/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
   <a href="https://scholar.google.com/citations?user=91OsIQYAAAAJ">
     <img
       src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"
