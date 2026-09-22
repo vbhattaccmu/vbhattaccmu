@@ -19,6 +19,7 @@ with experience across blockchain execution and consensus clients. Used to work 
 
 - [devP2P peer jailing in Bor](https://github.com/0xPolygon/bor/pull/2283)
 - [Polynomial multiproof integration on Avail Light Clients](https://github.com/availproject/avail-light/pull/778)
+- [Avoid announcing sparse blob txs to legacy peers](https://github.com/ethereum/go-ethereum/pull/35589)
 
 ## Selected Open-Source Projects
 
